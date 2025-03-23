@@ -24,37 +24,37 @@ function App() {
 
   const photos = [
     {
-      url: "/images/marinedrive.jpg",
+      url: "/Sanika-Lobo-Portfolio/images/marinedrive.jpg",
       title: "Sunset at Marine Drive",
       date: "December 2024",
       description: "Capturing the golden hour at Mumbai's iconic Marine Drive"
     },
     {
-      url: "/images/flowers.jpg",
+      url: "/Sanika-Lobo-Portfolio/images/flowers.jpg",
       title: "Sunflowers",
       date: "January 2025",
       description: "Flowers nature's colorful, fragrant masterpieces, symbolizing beauty, love, and new beginnings "
     },
     {
-      url: "/images/streetphotography.jpg",
+      url: "/Sanika-Lobo-Portfolio/images/streetphotography.jpg",
       title: "Street Photography",
       date: "February 2025",
       description: "Capturing the essence of Mumbai's bustling streets"
     },
     {
-      url: "/images/sealink.jpg",
+      url: "/Sanika-Lobo-Portfolio/images/sealink.jpg",
       title: "Sea Link",
       date: "March 2025",
       description: "Close-up photography of Sea Link from my College"
     },
     {
-      url: "/images/dog.jpg",
+      url: "/Sanika-Lobo-Portfolio/images/dog.jpg",
       title: "Puppy",
       date: "February 2025",
       description: "Cute puppy playing on the floor"
     },
     {
-      url: "/images/archi.jpg",
+      url: "/Sanika-Lobo-Portfolio/images/archi.jpg",
       title: "Architecture",
       date: "January 2025",
       description: "Gothic architecture study in South Mumbai"
@@ -63,32 +63,32 @@ function App() {
 
   const calligraphyGallery = [
     {
-      image: "/images/c1.jpg",
+      image: "/SanikaLobo/images/c1.jpg",
       title: "Modern Calligraphy",
       description: "Exploring contemporary lettering styles with oblique tip pens"
     },
     {
-      image: "/images/c2.jpg",
+      image: "/SanikaLobo/images/c2.jpg",
       title: "Copperplate Calligraphy",
       description: "Elegant, flowing script with thin upstrokes and thick downstrokes, created using a pointed nib"
     },
     {
-      image: "/images/c6.jpg",
+      image: "/SanikaLobo/images/c6.jpg",
       title: "Spencerian Calligraphy",
       description: "Graceful, cursive script with delicate strokes and elegant loops"
     },
     {
-      image: "/images/c4.jpg",
+      image: "/SanikaLobo/images/c4.jpg",
       title: "Glass Pen Calligraphy",
       description: "Smooth, fluid writing using a glass dip pen with fine grooves for ink flow"
     },
     {
-      image: "/images/c5.jpg",
+      image: "/SanikaLobo/images/c5.jpg",
       title: "Brush Pen Calligraphy",
       description: "Flexible brush tips to create thick downstrokes and thin upstrokes"
     },
     {
-      image: "/images/c3.jpg",
+      image: "/SanikaLobo/images/c3.jpg",
       title: "Faux Calligraphy",
       description: "Mimics calligraphy by drawing and filling in thick downstrokes with a regular pen"
     }
@@ -96,32 +96,32 @@ function App() {
 
   const embroiderycollection = [
     {
-      image: "fem.jpg",
+      image: "/SanikaLobo/images/fem.jpg",
       title: "Flower Vase",
       description: "Colourful Vase made with Button Hole, Herring Bone, French Knot & Laisy Daisy"
     },
     {
-      image: "lem.jpg",
+      image: "/SanikaLobo/images/lem.jpg",
       title: "Lavender Field with buzzing Bees",
       description: "Lavender scenery made of Long and Short, Star, Sheaf & Ermine stitches"
     },
     {
-      image: "pem.jpg",
+      image: "/SanikaLobo/images/pem.jpg",
       title: "The Three Planters",
       description: "Planters with plants with stiches of Fly, Feather, Fern and Fish Bone"
     },
     {
-      image: "kem.jpg",
+      image: "/SanikaLobo/images/kem.jpg",
       title: "Kasuti of Karnataka",
       description: "Traditional Indian state embroidery inspired from Karnataka"
     },
     {
-      image: "phem.jpg",
+      image: "/SanikaLobo/images/phem.jpg",
       title: "Phulkari of Punjab",
       description: "Traditional Indian state embroidery inspired from Punjab"
     },
     {
-      image: "oem.jpg",
+      image: "/SanikaLobo/images/oem.jpg",
       title: "Abstract Emotions",
       description: "One line lady with abstracts of Norwich, Pearl Knot and Jacobean Embroidery Stitches"
     }
@@ -133,19 +133,19 @@ function App() {
         name: "Veronica's",
         location: "Bandra",
         description: "Offers a variety of fast food and beverages in a vibrant setting",
-        image: "v2.jpg"
+        image: "/SanikaLobo/images/v2.jpg"
       },
       {
         name: "K Rustom & co Ice Cream Parlour",
         location: "Churchgate",
         description: "Renowned Mumbai parlour known for its iconic wafer ice cream sandwiches",
-        image: "krustom.jpg"
+        image: "/SanikaLobo/images/krustom.jpg"
       },
       {
         name: "Magnolia Bakery",
         location: "Bandra",
         description: "American bakery offering classic desserts made from scratch with the finest ingredients",
-        image: "magnoliab.jpg"
+        image: "/SanikaLobo/images/magnoliab.jpg"
       }
     ],
     internationalDestinations: [
@@ -153,7 +153,7 @@ function App() {
         country: "Italy",
         highlights: "History, art, food, fashion, scenic landscapes, vineyards, beaches",
         bestTime: "Apr–Jun",
-        image: "italy.jpg"
+        image: "/SanikaLobo/images/italy.jpg"
       },
       {
         country: "Greece",
@@ -165,7 +165,7 @@ function App() {
         country: "Singapore",
         highlights: "Modern skyline, diverse culture, street food, shopping, gardens, and vibrant nightlife",
         bestTime: "December–June",
-        image: "singapore.jpg"
+        image: "/SanikaLobo/images/singapore.jpg"
       }
     ]
   };
@@ -184,7 +184,7 @@ function App() {
       name: "Spring Paradise - Acrylic",
       artist: "Sanika",
       price: 1200,
-      image: "shap.jpg",
+      image: "/SanikaLobo/images/shap.jpg",
       category: "acrylic-painting",
       description: "A vibrant acrylic painting capturing the essence of the world from above. Size: 24x36 inches, professionally framed."
     },
@@ -193,7 +193,7 @@ function App() {
       name: "Modern Calligraphy and Watercolor Kitchen Set",
       artist: "Sanika and Sharal",
       price: 1800,
-      image: "shcwp.jpg",
+      image: "/SanikaLobo/images/shcwp.jpg",
       category: "calligraphy",
       description: "Custom calligraphy set including personalized quotes and designs. Perfect for home decor or gifting."
     },
@@ -202,7 +202,7 @@ function App() {
       name: "Crochet Tulip (set of 5)",
       artist: "Sanvia",
       price: 700,
-      image: "shct.jpg",
+      image: "/SanikaLobo/images/shct.jpg",
       category: "crochet",
       description: "Everlasting, delicate, and beautifully crafted! "
     },
@@ -211,7 +211,7 @@ function App() {
       name: "Winter Dreams - Watercolor",
       artist: "Sharal",
       price: 2000,
-      image: "shws.jpg",
+      image: "/SanikaLobo/images/shws.jpg",
       category: "watercolor-painting",
       description: "Delicate watercolor painting of winter and life covered with snow. Size: 16x20 inches, includes certificate of authenticity."
     },
@@ -220,7 +220,7 @@ function App() {
       name: "Crochet Toy",
       artist: "Sanvia",
       price: 2200,
-      image: "shcd.jpg",
+      image: "/SanikaLobo/images/shcd.jpg",
       category: "crochet",
       description: "Cute little Blue and Crochet Dodo Bird Toy"
     },
@@ -229,7 +229,7 @@ function App() {
       name: "Abstract Emotions - Watercolour",
       artist: "Sharal",
       price: 1500,
-      image: "shww.jpg",
+      image: "/SanikaLobo/images/shww.jpg",
       category: "watercolor-painting",
       description: "Bold and expressive abstract painting of a Women. Size: 30x40 inches, gallery wrapped canvas."
     },
@@ -238,7 +238,7 @@ function App() {
       name: "Floral Embroidery",
       artist: "Sanika",
       price: 1600,
-      image: "shef.jpg",
+      image: "/SanikaLobo/images/shef.jpg",
       category: "embroidery",
       description: "Detailed Embroidery design and pattern with floral theme."
     },
@@ -247,7 +247,7 @@ function App() {
       name: "Crochet Keychain",
       artist: "Sanvia",
       price: 300,
-      image: "shck.jpg",
+      image: "/SanikaLobo/images/shck.jpg",
       category: "crochet",
       description: "cute, fun and perfect for space lovers!"
     }
