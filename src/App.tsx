@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Sun, Moon, Github, Linkedin, Instagram, PinIcon, Camera, Palette, Code as CodeIcon, Home, ShoppingBag, Brush, PenTool, Filter, ShoppingCart, Star, Sparkles, Brain, Rocket, Heart, X, Plane, Coffee } from 'lucide-react';
+import { Sun, Moon, Github, Linkedin, Instagram, PinIcon, Camera, Palette, Code as CodeIcon, Home, ShoppingBag, Brush, PenTool, ShoppingCart, Star, Sparkles, Brain, Rocket, Heart, X, Plane, Coffee } from 'lucide-react';
 
 function App() {
   const [darkMode, setDarkMode] = useState(false);
@@ -24,37 +24,37 @@ function App() {
 
   const photos = [
     {
-      url: "marinedrive.jpg",
+      url: "/images/marinedrive.jpg",
       title: "Sunset at Marine Drive",
       date: "December 2024",
       description: "Capturing the golden hour at Mumbai's iconic Marine Drive"
     },
     {
-      url: "flowers.jpg",
+      url: "/images/flowers.jpg",
       title: "Sunflowers",
       date: "January 2025",
       description: "Flowers nature's colorful, fragrant masterpieces, symbolizing beauty, love, and new beginnings "
     },
     {
-      url: "streetphotography.jpg",
+      url: "/images/streetphotography.jpg",
       title: "Street Photography",
       date: "February 2025",
       description: "Capturing the essence of Mumbai's bustling streets"
     },
     {
-      url: "sealink.jpg",
+      url: "/images/sealink.jpg",
       title: "Sea Link",
       date: "March 2025",
       description: "Close-up photography of Sea Link from my College"
     },
     {
-      url: "dog.jpg",
+      url: "/images/dog.jpg",
       title: "Puppy",
       date: "February 2025",
       description: "Cute puppy playing on the floor"
     },
     {
-      url: "archi.jpg",
+      url: "/images/archi.jpg",
       title: "Architecture",
       date: "January 2025",
       description: "Gothic architecture study in South Mumbai"
@@ -63,32 +63,32 @@ function App() {
 
   const calligraphyGallery = [
     {
-      image: "c1.jpg",
+      image: "/images/c1.jpg",
       title: "Modern Calligraphy",
       description: "Exploring contemporary lettering styles with oblique tip pens"
     },
     {
-      image: "c2.jpg",
+      image: "/images/c2.jpg",
       title: "Copperplate Calligraphy",
       description: "Elegant, flowing script with thin upstrokes and thick downstrokes, created using a pointed nib"
     },
     {
-      image: "c6.jpg",
+      image: "/images/c6.jpg",
       title: "Spencerian Calligraphy",
       description: "Graceful, cursive script with delicate strokes and elegant loops"
     },
     {
-      image: "c4.jpg",
+      image: "/images/c4.jpg",
       title: "Glass Pen Calligraphy",
       description: "Smooth, fluid writing using a glass dip pen with fine grooves for ink flow"
     },
     {
-      image: "c5.jpg",
+      image: "/images/c5.jpg",
       title: "Brush Pen Calligraphy",
       description: "Flexible brush tips to create thick downstrokes and thin upstrokes"
     },
     {
-      image: "c3.jpg",
+      image: "/images/c3.jpg",
       title: "Faux Calligraphy",
       description: "Mimics calligraphy by drawing and filling in thick downstrokes with a regular pen"
     }
