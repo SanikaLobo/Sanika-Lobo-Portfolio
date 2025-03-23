@@ -681,7 +681,7 @@ function App() {
                 <ul className="space-y-4 text-gray-800 dark:text-white">
                   <li className="flex items-center gap-3">
                     <Star className="w-5 h-5 text-yellow-500" />
-                    <span>C++ Development</span>
+                    <span>C & C++ Development</span>
                   </li>
                   <li className="flex items-center gap-3">
                     <Star className="w-5 h-5 text-yellow-500" />
@@ -693,7 +693,7 @@ function App() {
                   </li>
                   <li className="flex items-center gap-3">
                     <Star className="w-5 h-5 text-yellow-500" />
-                    <span>Python Programming</span>
+                    <span>Python & React Programming</span>
                   </li>
                 </ul>
               </div>
@@ -829,7 +829,7 @@ function App() {
                     <PinIcon className="w-6 h-6" />
                   </a>
                   <a
-                    href="https://github.com/lobosanika16"
+                    href="https://github.com/SanikaLobo"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-3 bg-white/80 dark:bg-gray-800/80 rounded-full hover:bg-rose-100 dark:hover:bg-gray-700 transition-colors"
@@ -842,23 +842,18 @@ function App() {
               <div className="lg:w-2/5 h-[600px] overflow-hidden relative rounded-xl">
                 <div className="absolute inset-0 animate-scroll">
                   <img
-                    src="san1.jpg"
+                    src="https://raw.githubusercontent.com/SanikaLobo/Sanika-Lobo-Portfolio/main/public/images/san1.jpg"
                     alt="Sanika Image 1"
                     className="w-full h-[300px] object-cover rounded-xl mb-4"
                   />
                   <img
-                    src="san2.jpg"
+                    src="https://raw.githubusercontent.com/SanikaLobo/Sanika-Lobo-Portfolio/main/public/images/san2.jpg"
                     alt="Sanika Image 2"
                     className="w-full h-[300px] object-cover rounded-xl mb-4"
                   />
                   <img
-                    src="san5.jpg"
+                    src="https://raw.githubusercontent.com/SanikaLobo/Sanika-Lobo-Portfolio/main/public/images/san5.jpg"
                     alt="Sanika Image 3"
-                    className="w-full h-[300px] object-cover rounded-xl mb-4"
-                  />
-                  <img
-                    src="san3.jpg"
-                    alt="Sanika Image 4"
                     className="w-full h-[300px] object-cover rounded-xl mb-4"
                   />
                 </div>
